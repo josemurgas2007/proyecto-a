@@ -6,3 +6,9 @@ texto normal
 mas normal
 # Encabezado nivel 3
 mas de eso
+
+esta es una muestra en *cursiva*
+
+en **negrillas**
+
+_cursiva_
